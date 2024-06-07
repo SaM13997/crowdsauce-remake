@@ -60,11 +60,10 @@ export default function Home() {
 						</div>
 					</div>
 					<button className="px-12 py-4 uppercase rounded-full bg-[#FF5F5F]/80 text-neutral-800">
-						Let's talk
+						Let&apos;s talk
 					</button>
 				</header>
 				<main>
-					{/* bg-cover bg-no-repeat bg-[url(https://www.crowdsauce.co/img/hero.webp)]  */}
 					<div className="hero max-w-4xl h-full mx-auto">
 						<div
 							className="flex justify-center z-20 h-[90vh] w-full 
@@ -228,7 +227,7 @@ export default function Home() {
 						</div>
 						<div>
 							<p className="w-1/2 italic text-sm text-zinc-400 uppercase leading-[1.2] mx-auto">
-								//
+								{'//'}
 							</p>
 
 							<p className="text-left w-1/2 text-4xl text-zinc-400 uppercase leading-[1.2] mx-auto">
@@ -243,7 +242,7 @@ export default function Home() {
 						</div>
 						<div>
 							<p className="w-1/2 italic text-sm text-zinc-400 uppercase leading-[1.2] mx-auto">
-								///
+								{ "///"}
 							</p>
 							<p className="text-left w-1/2 text-4xl text-zinc-400 uppercase leading-[1.2] mx-auto">
 								ACCESS THE{' '}
